@@ -7,7 +7,7 @@ It uses a React (Vite + TypeScript) frontend and a FastAPI + SQLite backend, and
 
 
 <img width="783" height="354" alt="image" src="https://github.com/user-attachments/assets/9d39c369-f841-472a-920f-9fd79779b841" />
-<img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/5edd56c0-b316-436b-8245-a0f9f4495503" />
+<img width="783" height="354" alt="image" src="https://github.com/user-attachments/assets/5edd56c0-b316-436b-8245-a0f9f4495503" />
 
 
 What it does
