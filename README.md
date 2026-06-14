@@ -1,12 +1,15 @@
+<img width="783" height="357" alt="image" src="https://github.com/user-attachments/assets/96df8d19-fe3b-496a-9810-43ddcc04d930" />
+
 ApexFit: Personalized Gym Workout Planner
 ApexFit is a full-stack application that generates personalized weekly gym plans based on user goals, experience level, available training days, session length, and injury constraints. It replaces generic workout routines with structured, rule-based programs.
 It uses a React (Vite + TypeScript) frontend and a FastAPI + SQLite backend, and can also be packaged into a standalone .exe using PyInstaller.
 
-<img width="783" height="357" alt="image" src="https://github.com/user-attachments/assets/96df8d19-fe3b-496a-9810-43ddcc04d930" />
 
-What it does
 <img width="783" height="354" alt="image" src="https://github.com/user-attachments/assets/9d39c369-f841-472a-920f-9fd79779b841" />
 <img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/5edd56c0-b316-436b-8245-a0f9f4495503" />
+
+
+What it does
 1.User assessment
 2.Collects fitness goals (fat loss, muscle gain, endurance), experience level, weekly training days, session duration, and physical limitations.
 3.Workout generation
